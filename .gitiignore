@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+
+# Directory for screenshots
+/screenshots/*
+
+# Virtual environment
+venv/
+env/
+virtualenv/
