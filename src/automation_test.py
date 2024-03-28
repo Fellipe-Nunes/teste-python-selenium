@@ -1,5 +1,5 @@
 import unittest
-from register_test2 import RegisterTest
+from register_test import RegisterTest
 from frame_test import FrameTest
 from datepicker_test import DatepickerTest
 from slider_test import SliderTest
