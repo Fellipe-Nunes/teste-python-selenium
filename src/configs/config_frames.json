@@ -1,0 +1,7 @@
+{
+    "base_url": "https://demo.automationtesting.in",
+    "endpoint": "/Frames.html",
+    "frames_link_text": "Frames",
+    "frames_sublink_text": "Iframe with in an Iframe",
+    "frame_text": "Olá Mundo"
+}

@@ -1,0 +1,6 @@
+{
+    "base_url": "https://demo.automationtesting.in",
+    "endpoint": "/Slider.html",
+    "slider_link_text": "Slider",
+    "slider_handle_xpath": "//div[@id='slider']/span"
+}

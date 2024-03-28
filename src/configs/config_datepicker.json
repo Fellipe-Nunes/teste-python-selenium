@@ -1,0 +1,9 @@
+{
+    "base_url": "https://demo.automationtesting.in",
+    "endpoint": "/Datepicker.html",
+    "datepicker_ids": {
+        "disabled": "datepicker1",
+        "enabled": "datepicker2"
+    },
+    "birthdate": "23/03/1988"
+}
